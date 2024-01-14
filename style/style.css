@@ -1,0 +1,16 @@
+.card {
+    width: 200px;
+}
+
+.song-cover {
+    width: 100%;
+}
+
+.song-cover img {
+    width: 100%;
+}
+
+.container {
+    display: flex;
+    gap: 20px;
+}
